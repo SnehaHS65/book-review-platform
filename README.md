@@ -28,7 +28,7 @@ The **Book Review Platform** is a full-stack web application where users can sig
 > New users can create an account and start reviewing books.
 
 ### 📚 All Books Page
-![Books](./screenshots/books.png)
+<img src="./screenshots/books.png" alt="All Books Page" width="400"/>
 > Browse all available books and read community reviews.
 
 ### 📝 Review Form
